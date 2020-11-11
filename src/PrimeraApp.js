@@ -14,6 +14,7 @@ const PrimeraApp = ({ saludo, subtitulo }) => {
         </>
     );
 }
+//ole
 PrimeraApp.propTypes = {
     saludo: PropTypes.string.isRequired
 }
